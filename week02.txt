@@ -1,0 +1,5 @@
+This is the text file created for week 2 of CEBD 1160.
+Author: Van Quang Nguyen.
+Student Number: 40111571.
+Created by Vim
+Date: 31.01.2019
